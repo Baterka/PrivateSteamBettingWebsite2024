@@ -1,4 +1,4 @@
-# SteamBettingWebsite2
+# Private Steam (Counter-Strike 2) Betting Website
 Private Steam (Counter-Strike 2) betting/gambling website - Roulette, Jackpot
 
 # What is this?
