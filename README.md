@@ -28,6 +28,27 @@ I am offering this website in three tiers:
  - Client is allowed to re-sell the source code or provide it as a service to third-party
  **Price: Starting at 5000€**
 
+# Features
+ - Written in TypeScript
+ - Using Node.JS for backend and React for frontend
+ - Using WebSockets for communication
+ - Made for Counter-Strike 2 game, but can be easily changed to any Steam game that has tradeable items (e.g. TF2)
+ - Gamemodes
+   - Jackpot (Classic item based jackpot with provably fair and history)
+   - Roulette (Classic coin based roulette with 3 colors with provably fair and history)
+ - Profile
+  - History of transactions and bets
+  - Leveling system
+ - Live chat
+ - Item and Coin based inventory system
+   - Users can deposit items, bet them in Jackpot, or sell then for coins to bet in Roulette
+   - Users can buy items for coins and withdraw them
+ - Multi-bot support (multiple running Steam bots at once, load-balancing Store inventories)
+ - Uses SteamApis for user inventories (paid service)
+ - Uses SkinPort for item prices (CS2)
+ - Daily and Name rewards
+ - Utilizing rate-limiting and other security measures
+
 # How to buy
 Contact me:
  - Discord: czbaterka
