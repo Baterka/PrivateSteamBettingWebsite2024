@@ -86,3 +86,16 @@ Contact me for a working demo
  - No, I am taking only real money payments, in advance and not in crypto.
 
 Feel free to contact me for any other questions ;)
+
+# Free alternative
+I am offering a free alternative for betting website:
+https://github.com/Baterka/CSGOHunt.com-Copy
+
+Before you use it:
+ - This is code was not updated for 6 years
+ - Source code started as a leak of website CSGOHunt.com
+   - It uses frontend code of that website (from that era)
+   - It uses somehow personal backend, but very outdated and poorly written
+ - I do not provide any support for it
+ - I will not actively work on this source code
+ - To sum it up: **It is provided as is without zero help from my side**
