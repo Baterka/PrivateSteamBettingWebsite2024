@@ -1,0 +1,5 @@
+Source code is private. Please read README.md
+
+ - Website is written in TypeScript
+ - Website is using MySQL to store data
+ - Website is using SteamAPI manage users and inventories
